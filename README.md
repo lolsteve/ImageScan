@@ -1,5 +1,6 @@
 # ImageScan
 Simple Python script to help users with SANE scanimage command line
+
 It's not very good, but it works
 
 ## Dependencies
